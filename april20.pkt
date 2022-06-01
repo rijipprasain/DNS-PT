@@ -1,0 +1,3630 @@
+
+    }
+  },
+  "904540": {
+    "common": {
+      "clienticon": "34eaf4acda1dbaad6fda75face24277ec300e513",
+      "gameid": "904540",
+      "name": "Indiana Jones® and the Infernal Machine™",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Indiana Jones and the Infernal Machine",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Jones3D.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904550": {
+    "common": {
+      "clienticon": "9052da69514f7b52cddb92cad2309069407ea56c",
+      "gameid": "904550",
+      "name": "Robot Chase",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Robot Chase",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "RobotChase.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904560": {
+    "common": {
+      "clienticon": "de52f3ccd95afe6e3434484cda0eb2e896e66bab",
+      "gameid": "904560",
+      "name": "Flameruby",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Flameruby",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Flameruby.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904570": {
+    "common": {
+      "clienticon": "17313ac19105ee075eaa4764340692db585d8c55",
+      "gameid": "904570",
+      "name": "TOK",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "TOK",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "TOK.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904600": {
+    "common": {
+      "clienticon": "183d9be1c3558d203470d7052e5a0e15ba914632",
+      "gameid": "904600",
+      "name": "Small Sister",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Small Sister",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "sister.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904680": {
+    "common": {
+      "clienticon": "d3471435146c8a98e4b78fe63ab98242cacd034c",
+      "gameid": "904680",
+      "name": "HotHead",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "HotHead",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "HotHead.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904700": {
+    "common": {
+      "clienticon": "57ada8d90fae9c79c8066c4be624c09e7e7f6ce8",
+      "gameid": "904700",
+      "name": "Down Ward",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Down Ward",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Down Ward.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904740": {
+    "common": {
+      "clienticon": "8cd5f2b2c48666b0d6d920025d39f2028039d709",
+      "gameid": "904740",
+      "name": "东方试闻广纪 ~ Perfect Memento of Touhou Question",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "东方试闻广纪 ~ Perfect Memento of Touhou Question",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "东方试闻广纪 ~ Perfect Memento of Touhou Question.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904770": {
+    "common": {
+      "clienticon": "076f37697489be9e1d08cd7069c9d3668cf66aeb",
+      "gameid": "904770",
+      "name": "Divine Miracle Defense",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Divine Miracle Defense",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "DMD.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904780": {
+    "common": {
+      "clienticon": "2bb2f1f19c9ef8589cd7a7b6336f96cb467a4143",
+      "gameid": "904780",
+      "name": "DeepWeb",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "DeepWeb",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "DeepWeb\\Binaries\\Win64\\DeepWeb.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": "32",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "DeepWeb\\Binaries\\Win32\\DeepWeb.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904800": {
+    "common": {
+      "clienticon": "48f8531af691bb58dedb1840fd9e3c0f1a3c53e1",
+      "gameid": "904800",
+      "name": "Ambition",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Ambition",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Ambition-Win.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904810": {
+    "common": {
+      "clienticon": "6fe28f203548cff469998b717e08583777bdce9f",
+      "gameid": "904810",
+      "name": "Ectolibrium",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Ectolibrium",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Ectolibrium.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904820": {
+    "common": {
+      "clienticon": "ab03c956d79746a98d009b6d5a1bd7ea68c4355e",
+      "gameid": "904820",
+      "name": "VR Jogger",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "VR Jogger",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "VRJogger.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904860": {
+    "common": {
+      "clienticon": "1077f998f9e33e9cc73311dd33cd6281269b3279",
+      "gameid": "904860",
+      "name": "25 Cadre of Death",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "IGS",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "25CadreofDeath.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904890": {
+    "common": {
+      "clienticon": "b21e3e909d43d2eaca293be65af6658af30aac38",
+      "gameid": "904890",
+      "name": "Neverliria",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Neverliria",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Neverliria.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904930": {
+    "common": {
+      "clienticon": "a8de7c359cedef0f3a9c31fd06795eac61fff03a",
+      "gameid": "904930",
+      "name": "YOU - The Untold Stories",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "YOU - The Untold Stories",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "You - The Untold Stories.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904940": {
+    "common": {
+      "clienticon": "ac6d81bb899d1bdcb7b39f444ec159f4b7dcd37b",
+      "gameid": "904940",
+      "name": "Les 4 Alice: Lorange Journey",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Les 4 Alice Lorange Journey",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "QuatreAliceJourney\\QuatreAliceJourney.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "QuatreAliceJourney\\QuatreAliceJourney.sh"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "QuatreAliceJourney\\QuatreAliceJourney.app"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904950": {
+    "common": {
+      "clienticon": "d351c83eebb9c094c422e01a24783ced2de8b27e",
+      "gameid": "904950",
+      "name": "Exodus",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Exodus",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "Launch Exodus",
+          "executable": "Exodus.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904960": {
+    "common": {
+      "clienticon": "0a2c5d239a2cfe07e2e22dff3849dc2edb8c8641",
+      "gameid": "904960",
+      "name": "Cine Tracer",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "CineTracer",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "CineTracer.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "CineTracer.app"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "904990": {
+    "common": {
+      "clienticon": "bce82c0b537cfde686a859cdcf081c369e8e4802",
+      "gameid": "904990",
+      "name": "21+",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "21+",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "21+.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "9050": {
+    "common": {
+      "clienticon": "58dc18a1d24e4eb5b604f7642f71d31a01a09592",
+      "gameid": "9050",
+      "name": "DOOM 3",
+      "type": "game"
+    },
+    "config": {
+      "installdir": "Doom 3",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Doom3.exe"
+        },
+        "1": {
+          "config": null,
+          "arguments": null,
+          "description": "Launch Doom 3 Server",
+          "executable": "DOOM3DED.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "90500": {
+    "common": {
+      "clienticon": "12bbfbf4c193d5dddd4378a3dc5376b3176e3b60",
+      "gameid": "90500",
+      "name": "Guardians of Graxia",
+      "type": "game"
+    },
+    "config": {
+      "installdir": "Guardians Of Graxia",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "GuardiansOfGraxia.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905010": {
+    "common": {
+      "clienticon": "b45db9f0ec2801ad16f47c3a0865d5c665561fb5",
+      "gameid": "905010",
+      "name": "Draw Light",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Draw Light",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Draw Light.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905020": {
+    "common": {
+      "clienticon": "eb7c694079743be9f46a586ad070aeee2a6d1179",
+      "gameid": "905020",
+      "name": "Fort",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Fort",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "fort.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905060": {
+    "common": {
+      "clienticon": "d104489e29b106bb7de7c89df9ba4565c06198a7",
+      "gameid": "905060",
+      "name": "Turret Tech",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Turret Tech",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "TT.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905070": {
+    "common": {
+      "clienticon": "5e709645f97f2192c02a5e8511aea1bf20e4d090",
+      "gameid": "905070",
+      "name": "CONTINGENCY",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "CONTINGENCY",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "nw.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "\\contingency.app\\Contents\\MacOS\\nwjs"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905090": {
+    "common": {
+      "clienticon": "011435d17685b7bf17271b3a66fe9e8f6654c1b2",
+      "gameid": "905090",
+      "name": "Pineview Drive - Homeless",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Pineview Drive - Homeless",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "PineviewDriveHomeless.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905120": {
+    "common": {
+      "clienticon": "27874852d61fd968e519555161def4ac4a53ddef",
+      "gameid": "905120",
+      "name": "Son.Light.Sleepwalker",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "SonLightSleepwalker",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Son.Light.Sleepwalker.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "sls.x86_64"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905130": {
+    "common": {
+      "clienticon": "fbf0b3a4d6e1a7db1db0025e2f1922287dca4fe7",
+      "gameid": "905130",
+      "name": "Doggo Dig Down",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Doggo Dig Down",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "doggo.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "doggo"
+        },
+        "2": {
+          "config": {
+            "osarch": "64",
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": "Launch",
+          "executable": "doggo"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905150": {
+    "common": {
+      "clienticon": "6a29c3aae3e64021b00b692a39fe0243a9ebf75c",
+      "gameid": "905150",
+      "name": "Trivia Quiz: All about everything!",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Trivia Quiz All about everything",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "TriviaQuiz64.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": "32",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "TriviaQuiz32.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905180": {
+    "common": {
+      "clienticon": "8187153a103163b4820036d90679f5e333c7d007",
+      "gameid": "905180",
+      "name": "Inevitable VR",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Inevitable VR",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "InevitableVR.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905220": {
+    "common": {
+      "clienticon": "ca41e42d51041024f75f923e5b581aa222e86f1e",
+      "gameid": "905220",
+      "name": "Grim Earth",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Grim Earth",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "GrimEarth.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905230": {
+    "common": {
+      "clienticon": "79e469e9d262b947ca105d910285e8307e59eac9",
+      "gameid": "905230",
+      "name": "IQ Test",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "IQ Test",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "IQ Test.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905260": {
+    "common": {
+      "clienticon": "b54f8978f1cfc9fc540d221a80bdf18190708234",
+      "gameid": "905260",
+      "name": "Hags Castle",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Hags Castle",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "WindowsBuild.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905270": {
+    "common": {
+      "clienticon": "b7208dbef4c7e45adb2b24d3b98c47efcbf9443a",
+      "gameid": "905270",
+      "name": "Merlin Soccer",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Merlin Soccer",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Merlin Soccer.exe"
+        },
+        "1": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Merlin Soccer.app\\Contents\\MacOS\\Merlin Soccer"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Merlin Soccer.x86"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "90530": {
+    "common": {
+      "clienticon": null,
+      "gameid": "90530",
+      "name": "Battle for Graxia",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Rise of Immortals",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "ClientLauncherR.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905300": {
+    "common": {
+      "clienticon": "6a1cee8ddccad0a9b8d1dc5ca409649162dee580",
+      "gameid": "905300",
+      "name": "Daytona Racing",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Daytona Racing",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Daytona Racing.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Daytona Racing.x86"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Daytona Racing.app\\Contents\\MacOS\\Daytona Racing"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905330": {
+    "common": {
+      "clienticon": "8e059680de1233ded07bf9dcde4a6be640f7e87a",
+      "gameid": "905330",
+      "name": "oOo: Ascension",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "oOo Ascension",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "Launch",
+          "executable": "oOo.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "oOo_Mac.app\\Contents\\MacOS\\oOo_Mac"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "oOo.x86_64"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905340": {
+    "common": {
+      "clienticon": "6ebb7416843b5d5c5432a0f46580a5a5eedbce29",
+      "gameid": "905340",
+      "name": "Heave Ho",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Heave Ho",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "HeaveHo.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Heave Ho.app\\\\Contents\\\\MacOS\\\\Heave Ho"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905350": {
+    "common": {
+      "clienticon": "731f2e29656405370949256150577eeb83db646d",
+      "gameid": "905350",
+      "name": "Bang Bang Fruit 3",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Bang Bang Fruit 3",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "BBF3.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905370": {
+    "common": {
+      "clienticon": "03d4305e8811c36d34dea57f624e0e521e0d9b26",
+      "gameid": "905370",
+      "name": "Conqueror's Blade",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Conqueror's Blade",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": "-fromsteam",
+          "description": null,
+          "executable": "ConquerorsBladeSteamLoader.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905380": {
+    "common": {
+      "clienticon": "4213e4e6fc21caf69cd94489cc59c6c6786f9e0f",
+      "gameid": "905380",
+      "name": "RpgEra",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "RpgEra",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Game.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Game.app"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Game"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905390": {
+    "common": {
+      "clienticon": "be167b5c1df0318c96c9cf27395455a9e4747eb8",
+      "gameid": "905390",
+      "name": "Drone Spektra",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Drone Spektra",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "32",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "DroneSpektra1.0.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "MyProject.sh"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905450": {
+    "common": {
+      "clienticon": "3c4de7a2014a44035d1eb4e2909b980cead7c326",
+      "gameid": "905450",
+      "name": "NASCAR Heat 3",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "NASCAR Heat 3",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "NASCARHeat3.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": "-MGI-reset-graphics-settings",
+          "description": "Reset Graphic Settings",
+          "executable": "NASCARHeat3.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905460": {
+    "common": {
+      "clienticon": "18220fc45b7827c549ab41889d09f67a5af2ebe5",
+      "gameid": "905460",
+      "name": "Nutrients for Life",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Nutrients for Life",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "AgriumSSVR.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905490": {
+    "common": {
+      "clienticon": "23983439963ef10f58a8cb473aa79a492b7c300a",
+      "gameid": "905490",
+      "name": "Deck Hunter",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Deck Hunter",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "DeckHunter.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905510": {
+    "common": {
+      "clienticon": "f0045e95e3aa4a8a95e960214d5d7e440155afef",
+      "gameid": "905510",
+      "name": "Rugosi",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Rugosi",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "rugosi.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905590": {
+    "common": {
+      "clienticon": "f74f6025dd3f8b20658d604fd109551bc9c11f49",
+      "gameid": "905590",
+      "name": "The Asteroid Belt's Trial",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "The Asteroid Belt's Trial",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "The Asteroid Belt's Trial.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905630": {
+    "common": {
+      "clienticon": "b2da5a277d6ca7d086ea148461e95ee7a1a91ab8",
+      "gameid": "905630",
+      "name": "GALAXY TOP WING",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "GALAXY TOP WING",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "topwingvr.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905640": {
+    "common": {
+      "clienticon": "204c379d45fe2c028da60d523dc336acb6e060f1",
+      "gameid": "905640",
+      "name": "CombatArms: Reloaded",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Combat Arms Reloaded",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": "--vfapp vfsteam",
+          "description": null,
+          "executable": "Engine.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905650": {
+    "common": {
+      "clienticon": "fc8bf012c9adc843d8d8960658742570cdac5bf2",
+      "gameid": "905650",
+      "name": "Dominus 2",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Dominus2",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Dominus 2.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Dominus 2"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Dominus 2.app"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905660": {
+    "common": {
+      "clienticon": "6fd759c603787d9e5124800ebd926df4ba2e4b66",
+      "gameid": "905660",
+      "name": "纸境英雄 Papercraft",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "PaperWar",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "Launch",
+          "executable": "cow.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905670": {
+    "common": {
+      "clienticon": "c1d033636ab9e816f465f7e5216a85cac9de2581",
+      "gameid": "905670",
+      "name": "巭孬嫑毖",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "GFBH",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Main.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905690": {
+    "common": {
+      "clienticon": "6d1cbff8edf5ba8c9b4b3122120de268d372a3d4",
+      "gameid": "905690",
+      "name": "魔物讨伐团",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "魔物讨伐团",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Monster Slayers CN.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "MonsterSlayers.app"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905790": {
+    "common": {
+      "clienticon": "a396dccaae4879c0d8edcf82eec7deda1d28e753",
+      "gameid": "905790",
+      "name": "Hungry Shadows",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Hungry Shadows",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Hungry Shadows.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905800": {
+    "common": {
+      "clienticon": "2e0e43b8dd5baef5a5b847dc645dd0f33b195de2",
+      "gameid": "905800",
+      "name": "SpaceExile",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "SpaceExile",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Space_Exile.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905860": {
+    "common": {
+      "clienticon": "fa3c89609a169557d9386c5070320e5231b4ae2c",
+      "gameid": "905860",
+      "name": "DrillMania",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "DrillMania",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "DrillMania.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905870": {
+    "common": {
+      "clienticon": "d1e96e4120ef51a0a4674d8d0812eb3f3563e355",
+      "gameid": "905870",
+      "name": "Inn: the Countryside",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Inn the Countryside",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "InnTheCountryside.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905880": {
+    "common": {
+      "clienticon": "79a0344750d77f6af8c868be145fe891bd332397",
+      "gameid": "905880",
+      "name": "Caves of Plague",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Caves of Plague",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "CavesOfPlague.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905890": {
+    "common": {
+      "clienticon": "fa38c42bbb21dd03fe1b3e2f0703339a5e9c9c6b",
+      "gameid": "905890",
+      "name": "MONOWARS: Red Zone",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "MONOWARS Red Zone",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "MONOWARS - Red Zone\\MONOWARS - Red Zone.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905940": {
+    "common": {
+      "clienticon": "e1c826673743da719bf87b2156b87fee09b1cfbc",
+      "gameid": "905940",
+      "name": "女神驾到丨Happy Together",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Happy together",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "女神驾到：夏日甜心丨Happy together(推荐)",
+          "executable": "HeartClent_Windows\\\\HeartClent.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "女神驾到(旧版本)丨Happy Together（Old）",
+          "executable": "Heart.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "905960": {
+    "common": {
+      "clienticon": "da0ad97d33bddd1f25aef2eb7c84e622ac12ebc1",
+      "gameid": "905960",
+      "name": "Skyland Defense",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Skyland Defense",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Skyland Defense.exe"
+        },
+        "1": {
+          "config": null,
+          "arguments": "-vr",
+          "description": null,
+          "executable": "Skyland Defense.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "9060": {
+    "common": {
+      "clienticon": "10657811fd834f908db0f917e8628cc63130e07d",
+      "gameid": "9060",
+      "name": "HeXen II",
+      "type": "game"
+    },
+    "config": {
+      "installdir": "Hexen 2",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "glh2.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906000": {
+    "common": {
+      "clienticon": "7f045e87bd3ba7fd1c74a2a76ce90ba1b623feea",
+      "gameid": "906000",
+      "name": "Keyhole Spy: Student Girls",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Keyhole Spy Student Girls",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Keyhole Spy Student Girls.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Keyhole Spy Student Girls.app\\\\Contents\\\\MacOS\\\\Keyhole Spy Student Girls"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906010": {
+    "common": {
+      "clienticon": "2c4bafcfb477b44b1f56252d72bd5fc2bf8c9fc1",
+      "gameid": "906010",
+      "name": "TAL: Arctic 2",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "TAL Arctic 2",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "TALArctic2.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906020": {
+    "common": {
+      "clienticon": "71b2603b3e2dc3ba2bb731d4e7eb784844a5745d",
+      "gameid": "906020",
+      "name": "Strike Cars",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Strike Cars - Armed & Armored",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Strike Cars.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Strike Cars.app\\Contents\\MacOS\\Strike Cars"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906030": {
+    "common": {
+      "clienticon": "9d48d45553d9fc0ad8e708c2a3b0a535e4f17f52",
+      "gameid": "906030",
+      "name": "NOCE",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "NOCE",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "NOCEforSTEAM.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906050": {
+    "common": {
+      "clienticon": "e86127a96acc5cd6bc222c5ac87d784cae8ed573",
+      "gameid": "906050",
+      "name": "Hentai Case Opening",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Hentai Case Opening",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Hentai Case Opening.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906110": {
+    "common": {
+      "clienticon": "f495ece57c3b058e9d9988f1e72b37713a8cf392",
+      "gameid": "906110",
+      "name": "Minotaur Arcade Volume 1",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Minotaur Arcade Volume 1",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "MinotaurArcade.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": "-mode 1",
+          "description": null,
+          "executable": "MinotaurArcade.exe"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": "-mode 2",
+          "description": "Oculus Arcade Mode",
+          "executable": "MinotaurArcade.exe"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906120": {
+    "common": {
+      "clienticon": "687b65b712196ebd09dbc8d53dce1d6fc2347532",
+      "gameid": "906120",
+      "name": "POLYBIUS",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "POLYBIUS",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Polybius.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": "-mode 1",
+          "description": null,
+          "executable": "Polybius.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906160": {
+    "common": {
+      "clienticon": "b4f95cb0c2f666997eed34b0aeb2815695e35f4b",
+      "gameid": "906160",
+      "name": "Repeat the image: Animals",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Repeat the image Animals",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Repeat the image - Animals.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906170": {
+    "common": {
+      "clienticon": "0ed4dfdc41f74b61ffd4415b5e5f8e5655414bf3",
+      "gameid": "906170",
+      "name": "Metal Brigade Tactics",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Metal Brigade Tactics",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "MetalBrigadeTactics.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906190": {
+    "common": {
+      "clienticon": "6fb1b6dbe31946d273bdcdd7c0e9173e170d9086",
+      "gameid": "906190",
+      "name": "Kamikaze Cube 2",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Kamikaze Cube 2",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Kamikaze Cube 2.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906200": {
+    "common": {
+      "clienticon": "016481f45e4427cb48cbb2ae521da756e05a650b",
+      "gameid": "906200",
+      "name": "Tunche: Arena",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Tunche Arena",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Tunche.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906240": {
+    "common": {
+      "clienticon": "be50f75d53e59acf586ae8651b610ba11141c8b8",
+      "gameid": "906240",
+      "name": "Encore Card Games",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Encore_Card_Games",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "EncoreCardGames.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Encore Card Games.app"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906280": {
+    "common": {
+      "clienticon": "4e74ebe451fab3465d8237b9d73b8725e68a3045",
+      "gameid": "906280",
+      "name": "Combat rush",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Combat rush",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "CombatRushSteam.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906300": {
+    "common": {
+      "clienticon": "ebe54f784d85b5d4477860b028c55a7bb4aae326",
+      "gameid": "906300",
+      "name": "Under One Wing",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Under One Wing",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "UnderOneWing.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906310": {
+    "common": {
+      "clienticon": "b6baad4cd674b3089c3bd422b4485fc8c7cc0edb",
+      "gameid": "906310",
+      "name": "Rapid Racing",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "RapidRacing",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "RapidRacing.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906360": {
+    "common": {
+      "clienticon": "b781ce8cfba9c7a51381a454572971c9889d7bee",
+      "gameid": "906360",
+      "name": "LUXO Buddies",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "LUXO Buddies",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "LUXO Buddies.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "Expansion Pack 1",
+          "executable": "LUXO Buddies - Expansion Pack 1.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906370": {
+    "common": {
+      "clienticon": "42ee08c1b7147b365a8fd4041a3a32f056819060",
+      "gameid": "906370",
+      "name": "Starkid's Obstacle Course",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Starkid's Obstacle Course",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Starkid's Obstacle Course.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906390": {
+    "common": {
+      "clienticon": "7065e52a30cef5c08565e3b2006904d164eb54a0",
+      "gameid": "906390",
+      "name": "Return.",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Return",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Return.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906450": {
+    "common": {
+      "clienticon": "6225c00d24998878eb586f25a7397f3ba3af7aec",
+      "gameid": "906450",
+      "name": "Tenacious",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Tenacious",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Tenacious.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Tenacious\\Tenacious.app\\Contents\\MacOS\\Tenacious"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Tenacious.x86_64"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906480": {
+    "common": {
+      "clienticon": "ca18415f2799a4fd78b75575f0b0deb303c276c3",
+      "gameid": "906480",
+      "name": "Defenders of Ekron - Definitive Edition",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Defenders of Ekron - Definitive Edition",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "Defenders of Ekron - Definitive Edition.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906510": {
+    "common": {
+      "clienticon": "bb0b2ea2ea6c9a634fcedc0137e082a4ee15b489",
+      "gameid": "906510",
+      "name": "Conception PLUS: Maidens of the Twelve Stars",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "ConceptionPlus",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "ConceptionPlus.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": "Launch",
+          "executable": "launcher\\ConceptionPlus-Launcher.exe"
+        },
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906590": {
+    "common": {
+      "clienticon": "5354da7bd27b39f1e76436345a2315684f3de4c9",
+      "gameid": "906590",
+      "name": "Dabwoman: When The Dab Isn’t sexist",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Dabwoman When The Dab Isn’t sexist",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "nw.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906600": {
+    "common": {
+      "clienticon": "fe494bf62d3abecb686b54df2a3238961136c2b4",
+      "gameid": "906600",
+      "name": "Gunkid 99",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Gunkid99",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Gunkid99.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906650": {
+    "common": {
+      "clienticon": "fb702f02ecb31d08cb345d1a941d74e67b4a7624",
+      "gameid": "906650",
+      "name": "Gumstein: The Awakening",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Gumstein The Awakening",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "SlimeGame.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906660": {
+    "common": {
+      "clienticon": "ff538d11e05f3a28d5fb660a6c5c99b56e32ab14",
+      "gameid": "906660",
+      "name": "Seacurity Breach",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Seacurity Breach",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Seacurity Breach.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906680": {
+    "common": {
+      "clienticon": "daff02d39f45f970d46bbf07273176281e8b6659",
+      "gameid": "906680",
+      "name": "BloodyMary",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "BloodyMary",
+      "launch": {
+        "0": {
+          "config": null,
+          "arguments": null,
+          "description": null,
+          "executable": "BloodyMary.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906730": {
+    "common": {
+      "clienticon": "02fa1dfc961e55880b080e36538ec41723beec1f",
+      "gameid": "906730",
+      "name": "Typical",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Typical",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Typical.exe"
+        },
+        "1": {
+          "config": {
+            "osarch": null,
+            "oslist": "linux"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Typical.sh"
+        },
+        "2": {
+          "config": {
+            "osarch": null,
+            "oslist": "macos"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Typical.app"
+        },
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906740": {
+    "common": {
+      "clienticon": "e3dde9a894857bbbde46ac06bcf6a9b17f1de532",
+      "gameid": "906740",
+      "name": "Voidship: The Long Journey",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Voidship The Long Journey",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": null,
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Voidship.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906750": {
+    "common": {
+      "clienticon": "aa94a1d5f3c86af9f72de35a64d22505efcef41e",
+      "gameid": "906750",
+      "name": "Weaverse",
+      "type": "Game"
+    },
+    "config": {
+      "installdir": "Weaverse",
+      "launch": {
+        "0": {
+          "config": {
+            "osarch": "64",
+            "oslist": "windows"
+          },
+          "arguments": null,
+          "description": null,
+          "executable": "Weaverse.exe"
+        },
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null
+      }
+    }
+  },
+  "906770": {
+    "common": {
+      "cli
